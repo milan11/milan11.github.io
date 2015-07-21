@@ -269,7 +269,7 @@
     <tspan x="210" y="157.275">main</tspan>
   </text>
   <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="210" y1="180" x2="181.581" y2="208.419"/>
-    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="182.558,203.906 180.791,209.209 186.094,207.442 "/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="200" y1="170" x2="181" y2="208"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="180.5,203.41 180.5,209 184.972,205.646 "/>
   </g>
 </svg>
