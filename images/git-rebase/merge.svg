@@ -234,14 +234,6 @@
   <text font-size="11.2889" style="fill: #ffffff;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="214.4">
     <tspan x="170" y="214.4">6</tspan>
   </text>
-  <g>
-    <polygon style="fill: #26ed0a" points="159,188 181,188 192,200 148,200 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="159,188 181,188 192,200 148,200 "/>
-    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="159,188 181,188 192,200 148,200 "/>
-  </g>
-  <text font-size="8.46667" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="197.275">
-    <tspan x="170" y="197.275">other</tspan>
-  </text>
   <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="170">
     <tspan x="210" y="170"></tspan>
   </text>
@@ -272,4 +264,12 @@
     <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="200" y1="170" x2="181" y2="208"/>
     <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="180.5,203.41 180.5,209 184.972,205.646 "/>
   </g>
+  <g>
+    <polygon style="fill: #26ed0a" points="159,188 181,188 192,200 148,200 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="159,188 181,188 192,200 148,200 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="159,188 181,188 192,200 148,200 "/>
+  </g>
+  <text font-size="8.46667" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="197.275">
+    <tspan x="170" y="197.275">other</tspan>
+  </text>
 </svg>
