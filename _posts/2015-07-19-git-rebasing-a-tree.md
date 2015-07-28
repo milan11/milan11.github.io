@@ -27,6 +27,8 @@ Notice the order of the new (rebased) commits (7' to 10'). They do not follow th
 
 Assume there were some conflicts when we merged *a* to *other* and *b* to *other*. The conflicts needed to be resolved manually - so the merge commits *Ma* and *Mb* include some manually made changes. Note that while rebasing, some conflicts occur again, so we need to manually resolve them again. Since the commits are applied (rebased) one by one, these conflicts do not look the same as the conflicts we had to resolve in *Ma* and *Mb* - in fact, more conflicts can happen here and they can be harder to resolve. So, be cautious about such rebase.  In addition, all changes we made in *Ma* and *Mb* disappeared. This is another reason why we should do only conflict resolving changes (not arbitrary changes) in the merge commits.
 
+You can try it yourself using [this script](https://gist.github.com/milan11/2550b31382acd71674fe#file-git-rebase-sh).
+
 ## More complicated tree
 
 What if the branch *other* was branched off from *main* later, thus *main* having some of the commits already included? Here, commit 3 is already included in *main*, but when we follow the path back through e.g. a (commits 8 and 7), it's not so obvious. The next graph differs from the previous only in the marked arrow.
@@ -34,6 +36,8 @@ What if the branch *other* was branched off from *main* later, thus *main* havin
 ![Other tree rebase]({{ site.baseurl }}/images/git-rebase/rebase_tree_2.svg)
 
 Yes, Git knows about it and does not include these commits again.
+
+You can try it yourself using [this script](https://gist.github.com/milan11/2550b31382acd71674fe#file-git-rebase-2-sh).
 
 In fact, this situation can happen if:
 
