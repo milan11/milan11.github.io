@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="37cm" height="28cm" viewBox="19 59 722 542" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #e3e3e3" x="20" y="60" width="220" height="540"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x="20" y="60" width="220" height="540"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="73.7">
+    <tspan x="130" y="73.7">sources</tspan>
+  </text>
+  <g>
+    <rect style="fill: #b9ffbc" x="40" y="160" width="180" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="40" y="160" width="180" height="100"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="173.7">
+    <tspan x="130" y="173.7">project_using_stl_and_boost.cpp</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ff7b7b" x="60" y="180" width="140" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="60" y="180" width="140" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="193.7">
+    <tspan x="130" y="193.7">inc_stl.h</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d2d2d2" x="240" y="60" width="500" height="540"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #ffffff" x="240" y="60" width="500" height="540"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="490" y="73.7">
+    <tspan x="490" y="73.7">outputs</tspan>
+  </text>
+  <g>
+    <rect style="fill: #85d389" x="500" y="200" width="220" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="500" y="200" width="220" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="610" y="213.7">
+    <tspan x="610" y="213.7">project_using_stl_and_boost</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="220" y1="210" x2="497.764" y2="210"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="488.882,215 498.882,210 488.882,205 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="206.25">
+    <tspan x="360" y="206.25">build_project_using_stl_and_boost.sh</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="223.7">
+    <tspan x="360" y="223.7">0.7 s</tspan>
+  </text>
+  <g>
+    <rect style="fill: #85d389" x="500" y="100" width="220" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="500" y="100" width="220" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="610" y="113.7">
+    <tspan x="610" y="113.7">pch_stl_and_boost.h.pch</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="500" y1="110" x2="222.106" y2="209.248"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="228.789,201.552 221.053,209.624 232.152,210.969 "/>
+  </g>
+  <g>
+    <rect style="fill: #b9ffbc" x="40" y="280" width="180" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="40" y="280" width="180" height="100"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="293.7">
+    <tspan x="130" y="293.7">project_using_stl_and_boost.cpp</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ff7b7b" x="60" y="300" width="140" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="60" y="300" width="140" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="313.7">
+    <tspan x="130" y="313.7">inc_stl.h</tspan>
+  </text>
+  <g>
+    <rect style="fill: #85d389" x="500" y="320" width="220" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="500" y="320" width="220" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="610" y="333.7">
+    <tspan x="610" y="333.7">project_using_stl_and_boost</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="220" y1="330" x2="497.764" y2="330"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="488.882,335 498.882,330 488.882,325 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="326.25">
+    <tspan x="360" y="326.25">build_project_using_stl__without_pch__without_pch.sh</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="343.7">
+    <tspan x="360" y="343.7">6.5 s</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ff7b7b" x="60" y="220" width="140" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="60" y="220" width="140" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="233.7">
+    <tspan x="130" y="233.7">inc_boost.h</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ff7b7b" x="60" y="340" width="140" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="60" y="340" width="140" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="353.7">
+    <tspan x="130" y="353.7">inc_boost.h</tspan>
+  </text>
+  <g>
+    <rect style="fill: #b9ffbc" x="40" y="480" width="180" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="40" y="480" width="180" height="100"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="493.7">
+    <tspan x="130" y="493.7">project_using_stl_and_boost.cpp</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ff7b7b" x="60" y="500" width="140" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="60" y="500" width="140" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="513.7">
+    <tspan x="130" y="513.7">inc_stl.h</tspan>
+  </text>
+  <g>
+    <rect style="fill: #85d389" x="500" y="520" width="220" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="500" y="520" width="220" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="610" y="533.7">
+    <tspan x="610" y="533.7">project_using_stl_and_boost</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="220" y1="530" x2="497.764" y2="530"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="488.882,535 498.882,530 488.882,525 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="526.25">
+    <tspan x="360" y="526.25">build_project_using_stl__without_pch__partial_pch.sh</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="543.7">
+    <tspan x="360" y="543.7">5.7 s</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ff7b7b" x="60" y="540" width="140" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="60" y="540" width="140" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="553.7">
+    <tspan x="130" y="553.7">inc_boost.h</tspan>
+  </text>
+  <g>
+    <rect style="fill: #85d389" x="500" y="420" width="220" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="500" y="420" width="220" height="20"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="610" y="433.7">
+    <tspan x="610" y="433.7">pch_stl.h.pch</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="500" y1="430" x2="222.106" y2="529.248"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="228.789,521.552 221.053,529.624 232.152,530.969 "/>
+  </g>
+</svg>
