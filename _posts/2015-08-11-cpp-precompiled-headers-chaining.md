@@ -3,7 +3,7 @@ layout: post
 title: C++ - precompiled headers chaining
 ---
 
-Similarly to Microsoft Visual Studio compiler, gcc and clang compilers support precompiled headers, too. Let's look at creating and using of a precompiled header in clang compiler, particularly at chaining of precompiled headers (building a precompiled header using another precompiled header compiled earlier).
+Similarly to Microsoft Visual Studio compiler, gcc and Clang compilers support precompiled headers, too. Let's look at creating and using of a precompiled header in clang compiler, particularly at chaining of precompiled headers (building a precompiled header using another precompiled header compiled earlier).
 
 ## Building a precompiled header
 
@@ -104,3 +104,7 @@ Maybe you wonder why precompiled header compilation took 1.3 and compiling proje
 
 All files and actions described in this post are available in [the repository experiments-cpp-precompiled-headers-chaining](https://github.com/milan11/experiments-cpp-precompiled-headers-chaining). The header files produce a message while compiling so you can observe what is being built and what not.
 
+## See also:
+
+- how to use precompiled headers in Clang - [Clang Compiler User’s Manual](http://clang.llvm.org/docs/UsersManual.html#precompiled-headers)
+- chained precompiled headers - [Precompiled Header and Modules Internals](http://clang.llvm.org/docs/PCHInternals.html#chained-precompiled-headers)
