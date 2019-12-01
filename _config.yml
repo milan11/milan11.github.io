@@ -6,10 +6,10 @@
 name: Milan Laslop
 
 # Short bio or description (displayed in the header)
-description: C++, Java and .NET developer
+description: C++, Android and .NET developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/428839
+avatar: 
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://avatars0.githubusercontent.com/u/428839
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: milan33@gmail.com
+  email: 
   facebook:
   flickr:
-  github: milan11
+  github: 
   instagram:
   linkedin:
   pinterest:
@@ -34,10 +34,10 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: milan11atgithub
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-65310871-1
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
 
